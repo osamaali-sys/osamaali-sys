@@ -22,9 +22,9 @@ I have worked on many projects from weather analysis to mortgage risk assessment
 
 #### Languages/ Code/ Librarires
 
-:javascript: :html: :python 2.3: :pandas: :SQL: :R: :VBA: :Machine Learning: :matplotlib: :Webscraping:
+:javascript:   :html:  :python 2.3:  :pandas:   :SQL:  :R:  :VBA:   :Machine Learning:  :matplotlib:   :Webscraping:
 
 
 #### Services/ Softwares
 
-:Amazon Web Services: :Postgress: :Excel: :RStudio: :Tableau: :PostGresSql: :Google Colabs:
+:Amazon Web Services:  :Postgress:   :Excel:   :RStudio:  :Tableau:   :PostGresSql:   :Google Colabs:
