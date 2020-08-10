@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is OSAMA ALI, i am a Business Analyst turned Data Scientist. 
 
-I have worked on many projects from weather analysis to mortgage risk assessment. 
+I have worked on many projects from weather analysis, covid 19 tracking to mortgage risk assessment. 
 
 
 #### Languages/ Code/ Librarires
@@ -28,3 +28,8 @@ I have worked on many projects from weather analysis to mortgage risk assessment
 #### Services/ Softwares
 
 :Amazon Web Services:  :Postgress:   :Excel:   :RStudio:  :Tableau:   :PostGresSql:   :Google Colabs:
+
+
+
+#### LinkedIn:
+https://www.linkedin.com/in/osamaali-sys/
