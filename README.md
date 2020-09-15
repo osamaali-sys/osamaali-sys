@@ -20,6 +20,7 @@ My name is OSAMA ALI, I am a Business Analyst turned Data Scientist.
 I have worked on many projects from weather analysis, covid 19 tracking to mortgage risk assessment. 
 
 
+
 💬 Ask me about
 
 #### Languages/ Code/ Libraries
