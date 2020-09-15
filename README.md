@@ -33,3 +33,7 @@ I have worked on many projects from weather analysis, covid 19 tracking to mortg
 
 #### LinkedIn:
 https://www.linkedin.com/in/osamaali-sys/
+
+
+#### Email
+sam.ali0328@gmail.com
