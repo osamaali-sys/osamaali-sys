@@ -20,10 +20,11 @@ My name is OSAMA ALI, I am a Business Analyst turned Data Scientist.
 I have worked on many projects from weather analysis, covid 19 tracking to mortgage risk assessment. 
 
 
-#### Languages/ Code/ Librarires
+💬 Ask me about
+
+#### Languages/ Code/ Libraries
 
 :javascript:   :html:  :python 2.3:  :pandas:   :SQL:  :R:  :VBA:   :Machine Learning:  :matplotlib:   :Webscraping:
-
 
 #### Services/ Softwares
 
@@ -31,9 +32,10 @@ I have worked on many projects from weather analysis, covid 19 tracking to mortg
 
 
 
+📫 How to reach me:
+
 #### LinkedIn:
 https://www.linkedin.com/in/osamaali-sys/
-
 
 #### Email
 sam.ali0328@gmail.com
