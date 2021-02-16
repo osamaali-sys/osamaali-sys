@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is OSAMA ALI, I am a Business Analyst turned Data Scientist. 
+My name is OSAMA ALI, I am a Business Analyst turned Data Analyst/Business Intelligence Analyst. 
 
 I have worked on many projects from weather analysis, covid 19 tracking to mortgage risk assessment. 
 
